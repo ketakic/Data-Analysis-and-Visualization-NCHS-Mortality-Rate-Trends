@@ -1,6 +1,6 @@
 # Data-Analysis-and-Visualization
 Data Analysis and Visualization
-Tableau Dashboard for NCHS Mortality Rate Trends over 17 years (1999-2015)
+Tableau Dashboard for NCHS Mortality Rate Trends over 17 years (1999-2015) using 15k records
 
 Openly available source Data:
 https://healthdata.gov/dataset/nchs-leading-causes-death-united-states
