@@ -1,6 +1,7 @@
 # Data-Analysis-and-Visualization
 Data Analysis and Visualization
-Tableau Dashboard for NCHS Mortality Rate Trends over 17 years (1999-2015) using 15k records
+	Analyzed 17 years of historical NCHS data (15K records) to create trends for the mortality rates.
+	Created insightful tableau dashboards and stories using advanced tableau features like dimensional hierarchy, packed bubbled.
 
 Openly available source Data:
 https://healthdata.gov/dataset/nchs-leading-causes-death-united-states
